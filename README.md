@@ -52,8 +52,8 @@ SSF SHOP을 모티브로한 의류 소개 사이트
 <table>
   <tbody>
     <tr>
+      <td align="center"><a href="https://github.com/myp880"><img src="https://avatars.githubusercontent.com/u/48706649?s=400&u=8578b121caadd509b556487e1e5554abcb990c83&v=4" width="100px;" alt=""/><br /><sub><b>박문영</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/sujeong-dev"><img src="https://avatars.githubusercontent.com/u/112826154?v=4" width="100px;" alt=""/><br /><sub><b>구수정</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/myp880"><img src="https://avatars.githubusercontent.com/u/48706649?v=4" width="100px;" alt=""/><br /><sub><b>박문영</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/OHJUHYUNG"><img src="https://avatars.githubusercontent.com/u/98579539?v=4" width="100px;" alt=""/><br /><sub><b>오주형</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/Hyommm"><img src="https://avatars.githubusercontent.com/u/109214539?v=4" width="100px;" alt=""/><br /><sub><b>정효원</b></sub></a><br /></td>
      <tr/>

@@ -5,6 +5,8 @@
 ![](https://velog.velcdn.com/images/sujeong_dev/post/ac371809-c5b6-4612-a186-5c61eb07f90d/image.gif)
 <br />
 <br />
+![](https://velog.velcdn.com/images/myp/post/fbf4003e-4205-4a88-8468-d6f4e921be89/image.gif)
+<br />
 <br />
 
 ## 👏 소개
@@ -57,8 +59,8 @@ SSF SHOP을 모티브로한 의류 소개 사이트
      <tr/>
   </tbody>
 </table>
+- 박문영 : 상품 상세 페이지, 결제 페이지<br />
 - 구수정 : 상품 리스트 페이지 <br />
-- 박문영 : 상품 상세 페이지 <br />
 - 오주형 : 로그인 및 회원가입 페이지, 장바구니 페이지 <br />
 - 정효원 : 메인페이지(navbar, footer) <br />
 <br />
